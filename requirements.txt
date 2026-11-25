@@ -1,0 +1,9 @@
+
+androguard
+networkx
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+jupyter
